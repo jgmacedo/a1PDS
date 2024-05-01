@@ -9,8 +9,7 @@ def save_dependencies(dependencies):
             writer.writerow([name, version])
 
 
-def load_dependencies():
-    dependencies = {}
+def load_dependencies(dependencies):
     try:
         with open('data/dependencies.csv', newline='') as csvfile:
             reader = csv.reader(csvfile)

@@ -1,4 +1,4 @@
-from src.dependencyCrud.update import save_dependencies
+from src.dependencyCrud.updateCsv import save_dependencies
 
 
 def add_dependency(dependencies):
