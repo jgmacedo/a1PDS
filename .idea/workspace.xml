@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="684a07b7-5468-44cc-b48f-bb8f1025242a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/dependencyCrud/list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dependencyCrud/update_dependency.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dependencyCrud/add.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/dependencyCrud/add.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dependencyCrud/delete.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/dependencyCrud/delete.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dependencyCrud/updateCsv.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/dependencyCrud/updateCsv.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +39,7 @@
   "keyToString": {
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -105,7 +97,7 @@
       <option name="presentableId" value="Default" />
       <updated>1714518157471</updated>
       <workItem from="1714518165181" duration="132000" />
-      <workItem from="1714518316086" duration="7062000" />
+      <workItem from="1714518316086" duration="8260000" />
     </task>
     <servers />
   </component>
