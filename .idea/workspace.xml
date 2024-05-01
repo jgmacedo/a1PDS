@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="684a07b7-5468-44cc-b48f-bb8f1025242a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/dependencyCrud/list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dependencyCrud/update_dependency.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dependencyCrud/add.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/dependencyCrud/add.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dependencyCrud/delete.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/dependencyCrud/delete.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dependencyCrud/updateCsv.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/dependencyCrud/updateCsv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +105,7 @@
       <option name="presentableId" value="Default" />
       <updated>1714518157471</updated>
       <workItem from="1714518165181" duration="132000" />
-      <workItem from="1714518316086" duration="3607000" />
+      <workItem from="1714518316086" duration="7062000" />
     </task>
     <servers />
   </component>
@@ -123,10 +131,14 @@
           <line>8</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/main.py</url>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Python_Interpreter$main.coverage" NAME="main Coverage Results" MODIFIED="1714522389191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Interpreter$main.coverage" NAME="main Coverage Results" MODIFIED="1714535544014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

@@ -19,7 +19,6 @@ As entradas de dependências devem ser validadas para garantir que o nome e a ve
 Não deve ser possível adicionar uma dependência com o mesmo nome, a menos que seja para atualizar sua versão. 
 
 ## Testes com Plano, Roteiro e Evidências
-O desenvolvimento de testes envolve planejar, executar e documentar os resultados dos testes.
 
 ### Plano de Testes
 Objetivo: Verificar se todas as funcionalidades do sistema de gestão de dependências estão funcionando como esperado.

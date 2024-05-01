@@ -1,9 +1,12 @@
 # Update the dependencies.csv file with the new dependencies
 import csv
+import os
 
 
 def save_dependencies(dependencies):
-    with open('data/dependencies.csv', 'w', newline='') as csvfile:
+    file_path = 'data/dependencies.csv'
+    os.makedirs(os.path.dirname(file_path), exist_ok=True)
+    with open(file_path, 'w', newline='') as csvfile:
         writer = csv.writer(csvfile)
         for name, version in dependencies.items():
             writer.writerow([name, version])
