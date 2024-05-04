@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="684a07b7-5468-44cc-b48f-bb8f1025242a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/dependencyCrud/Project.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dependencyCrud/manipulateDependencies.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/dependencies.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/dependencies.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dependencyCrud/add.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dependencyCrud/delete.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dependencyCrud/list.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dependencyCrud/updateCsv.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/dependencyCrud/updateCsv.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dependencyCrud/update_dependency.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="684a07b7-5468-44cc-b48f-bb8f1025242a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,7 +101,7 @@
       <workItem from="1714518165181" duration="132000" />
       <workItem from="1714518316086" duration="8260000" />
       <workItem from="1714537439150" duration="67000" />
-      <workItem from="1714833564713" duration="1503000" />
+      <workItem from="1714833564713" duration="1544000" />
     </task>
     <servers />
   </component>
