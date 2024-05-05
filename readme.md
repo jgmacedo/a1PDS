@@ -56,4 +56,4 @@ Passos: Acessar a opção de atualizar, inserir o nome da dependência e a nova 
 Resultado Esperado: A dependência tem sua versão atualizada no arquivo CSV.
 
 ### Evidências de Teste
-Os testes tiveram resultado...
+Os testes e seus relatórios estão adicionados no diretório test_docs.
